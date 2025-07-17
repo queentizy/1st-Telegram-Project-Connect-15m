@@ -313,7 +313,7 @@ jobs:
             <b>• 🚶 JOURNEY_AT :</b> <code>${{ env.FORMATTED_TIME }}</code>
 
             <b>• 🧩 CULTIVATION_STAGE :</b> <code>${{ env.LEVEL_NAME }}</code>
-            <b>• 👤 IMMORTAL_NAME :</b> earlebe836@gmail.com
+            <b>• 👤 IMMORTAL_NAME :</b> earlene836@gmail.com
 
             <b>🏆 <u>LEADERBOARD (TOP 10 GLOBAL)</u> 🏆</b>
             ━━━━━━━━━━━━━━━━━━━━━━
@@ -329,8 +329,8 @@ jobs:
 
       - name: 🤖 Configure Git
         run: |
-          git config user.name "earlebe836"
-          git config user.email "earlebe836@gmail.com"
+          git config user.name "earlene836"
+          git config user.email "earlene836@gmail.com"
 
       - name: 🚩 Commit & Push Changes (Auto-resolve Conflict)
         run: |
